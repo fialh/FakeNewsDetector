@@ -11,5 +11,14 @@
 4. Upgrade to the latest version of pip
   "pip3 install --upgrade pip"
 
-5. Install libraries from "required_libraries.txt" (i.e. to install pandas, do "pip install pandas")
+5. Install libraries from "required_libraries.txt" under fake_news_detector folder
+   "pip install -r required_libraries.txt"
+
+   If that doesn't work, then each library can be installed manually.
+   "pip install pandas"
+   "pip install scikit-learn"
+   "pip install joblib"
+
+Your virtual environment is now ready to use :)
+
 
