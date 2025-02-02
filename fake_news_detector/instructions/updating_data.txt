@@ -1,6 +1,9 @@
-There is already preset data in the fake_news_dataset.csv file to start you off, however, there isn't enough.
+There is already preset data in the fake_news_dataset.csv file to start you off, so you can pretty much start using it without changing anything.
+However, there isn't enough data for it to predict the accuracy of specific headlines (i.e. "Trump wins the 2024 election").
+Only enough for it to predict broad headlines such as "Aliens invade earth???".
 
-The more data we have, the more accurate the model will become.
-It would be wise to use dataset for a specific type of news (political, sports, etc.).
-This will narrow down the need for more data.
+The more data you have, the more accurate the model will become.
+It would be smart to use dataset for a specific type of news (political, sports, etc.), since this will narrow down the need for more data.
 
+To update the data set is very simple. The format goes like this:
+  
