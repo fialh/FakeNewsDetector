@@ -19,7 +19,7 @@ print("Current working directory:", os.getcwd())
 
 # Load Model and Vectorizer
 try:
-    model_path = "/Users/azizuddinson/FILE_LOCATION/FakeNewsDetector/fake_news_detector/fake_news_model.pkl" #Change this to your file location
+    model_path = "/Users/ENTER_USERNAME/FILE_LOCATION/FakeNewsDetector/fake_news_detector/fake_news_model.pkl" #Change this to your file location
     vectorizer_path = "/Users/ENTER_USERNAME/FILE_LOCATION/FakeNewsDetector/fake_news_detector/tfidf_vectorizer.pkl" #Change this to your file location
     
     if not os.path.exists(model_path): #Check if the file exists. If not, raise an error. 
