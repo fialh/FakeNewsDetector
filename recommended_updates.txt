@@ -1,0 +1,7 @@
+1: Make it more user-friendly. 
+    User has to manually go into files and make changes. Make it so that user can run it once and can make changes by running it
+
+2: Make it more interactive
+
+3: Create multiple datasets with different topics (i.e. sports, politics, environment, space)
+
