@@ -6,4 +6,4 @@ The more data you have, the more accurate the model will become.
 It would be smart to use dataset for a specific type of news (political, sports, etc.), since this will narrow down the need for more data.
 
 To update the data set is very simple. The format goes like this:
-  
+  "News Article Headlines",0
