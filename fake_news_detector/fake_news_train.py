@@ -4,6 +4,8 @@
 # classify news articles as real or fake based on their content. The process involves collecting data,
 # preprocessing it, training a machine learning model, and then evaluating the model's performance.
 
+# This file is meant to train the model and save it for future use.
+
 
 
 import pandas as pd
