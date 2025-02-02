@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "type": "python",
+      "request": "launch",
+      "name": "Launch fake_news_train.py",
+      "program": "${workspaceFolder}/fake_news_detector/fake_news_train.py"
+    },
+    {
+      "type": "python",
+      "request": "launch",
+      "name": "Launch fake_news_predict.py",
+      "program": "${workspaceFolder}/fake_news_detector/fake_news_predict.py"
+    }
+  ]
+}
