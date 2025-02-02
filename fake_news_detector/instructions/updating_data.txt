@@ -5,5 +5,12 @@ Only enough for it to predict broad headlines such as "Aliens invade earth???".
 The more data you have, the more accurate the model will become.
 It would be smart to use dataset for a specific type of news (political, sports, etc.), since this will narrow down the need for more data.
 
-To update the data set is very simple. The format goes like this:
-  "News Article Headlines",0
+To update the data set is very simple. The format goes like this (csv format):
+  "Fake News Article Headlines",0
+  "Real News Article Headlines",1
+
+The headline goes in quotations before the comma, right after the comma (no spaces), put 0 or 1; 0 if it's fake, 1 if it's real.
+Immediately go to newline.
+
+That's it! Simple as that :)
+  
