@@ -1,5 +1,15 @@
-1. change directory to location of "fake_news_detector"
-2. python3 -m venv name_of_environment  (change name_of_environment to desired name of environment)
-3. Upgrade with "pip3 install --upgrade pip"
-4. Install libraries from "required_libraries.txt" (i.e. to install pandas, do "pip install pandas")
-5. source name_of_environment/bin/activate
+1. Change directory to the location of "fake_news_detector":
+   Ex: "cd /path/to/fake_news_detector"
+
+2. Create the virtual environment
+  "python3 -m venv name_of_environment"  (change name_of_environment to desired name of environment)
+
+
+3. Activate the virtual environment
+  "source name_of_environment/bin/activate"
+
+4. Upgrade to the latest version of pip
+  "pip3 install --upgrade pip"
+
+5. Install libraries from "required_libraries.txt" (i.e. to install pandas, do "pip install pandas")
+
