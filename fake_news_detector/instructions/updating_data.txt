@@ -1,4 +1,6 @@
-There is not much data in fake_news_dataset.csv to create an accurate model. 
+There is already preset data in the fake_news_dataset.csv file to start you off, however, there isn't enough.
+
 The more data we have, the more accurate the model will become.
-It would be wise to use dataset for a specific type of news (political, sports, etc.) 
-and get as much data as possible for that type of news
+It would be wise to use dataset for a specific type of news (political, sports, etc.).
+This will narrow down the need for more data.
+
