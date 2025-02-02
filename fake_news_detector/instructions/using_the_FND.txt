@@ -1,5 +1,6 @@
 In order to use the fnd on your own system, you first have to create a virtual environment. 
-Instructions can be found in "creating_virtual_env.txt".
+Instructions can be found in "creating_virtual_env.txt". 
+***YOU MUST CREATE YOUR OWN VIRTUAL WORKSPACE FOR THIS MODEL TO RUN***
 
 Next, you must update the data in fake_news_dataset to fit your needs.
 Instructions can be found in "updating_data.txt".
