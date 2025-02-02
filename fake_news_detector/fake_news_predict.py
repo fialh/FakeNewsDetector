@@ -1,4 +1,4 @@
-# Creators: Uzair Azizuddin, Firas Al Halaq, Christian Pimentel
+# Project Collaborators: Uzair Azizuddin, Firas Al Halaq, Christian Pimentel, Awab Elfadl
 
 # Purpose of Project: The goal is to develop a system that can automatically 
 # classify news articles as real or fake based on their content. The process involves collecting data,
