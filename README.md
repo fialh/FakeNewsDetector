@@ -35,7 +35,7 @@ Installation:
 
 Contributors:
 
-- Uzair Azizuddin (Project Creator)
+- Uzair Azizuddin
 - Firas Al Halaq
 - Christian Pimentel
 - Awab Elfadl
