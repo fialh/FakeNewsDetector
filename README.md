@@ -37,7 +37,6 @@ Contributors:
 
 - Uzair Azizuddin
 - Firas Al Halaq
-- Christian Pimentel
 - Awab Elfadl
 
 
