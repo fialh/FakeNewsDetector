@@ -40,6 +40,17 @@ Contributors:
 - Awab Elfadl
 
 
+Future Goals: 
+- User-Friendly Interface: Create an intuitive interface, such as a graphical user interface (GUI) or a web-based application, that allows users to easily interact with the model without needing to modify the code.
+
+- Dataset Expansion: Add more diverse datasets to improve model accuracy and robustness. Continuously update the datasets with new data to ensure the model adapts to evolving trends in fake news.
+
+- Enhanced Interactivity: Implement interactive features where users can input news headlines, see predictions, and understand the reasoning behind the model's decisions (e.g., using model explainability tools).
+
+- Experiment with Additional Machine Learning Models: In the future, test and integrate different machine learning models (such as Random Forest, SVM, or deep learning approaches like LSTMs or transformers) to compare and potentially improve classification accuracy.
+
+
+
 
 License:
 
